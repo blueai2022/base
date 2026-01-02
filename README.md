@@ -1,4 +1,4 @@
-# base - a collection of sample code projects for ML and LLM
+# Collection of projects for NLP or LLM, showcases real-world projects I collected over the years, for my posts on Medium.com and upcoming YouTube channel in 2026 
 
 ## Enviroment
 
